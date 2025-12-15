@@ -1,5 +1,6 @@
 # Üniversite Bilgi Tabanlı Doğal Dil İşleme ChatBot Sistemi
 
+Not = Dosyada bulunan modelin ve .venv dosyasının boyutundan dolayı eklenmemişlerdir bunun yerıne eğitim için gerekli diğer dosyalar eklenmiştir
 ## 1. Proje Tanımı
 
 Bu proje, Python kullanılarak geliştirilmiş bir Doğal Dil İşleme (Natural Language Processing – NLP) uygulamasıdır. Projede, BERTürkçe tabanlı bir dil modeli eğitilerek, farazi bir üniversite için üniversiteye ait soruları anlayabilen ve doğru cevaplar üretebilen bir akıllı soru–cevap sistemi (ChatBot) geliştirilmiştir.

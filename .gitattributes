@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+arayuz/** linguist-vendored
+**/*.html linguist-vendored
+**/*.css linguist-vendored
+**/*.js linguist-vendored
+**/*.jsx linguist-vendored
+
+**/*.py linguist-language=Python
